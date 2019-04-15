@@ -5,7 +5,7 @@ require "tinyerp_ruby/poster"
 
 module TinyerpRuby
   class Production
-    BASE_URL = "http://www.tiny.com.br/api2.php?wsdl"
+    BASE_URL = "https://api.tiny.com.br/api2.php?wsdl"
   end
 
   class Test
